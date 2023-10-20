@@ -1,9 +1,13 @@
-# [Teaching Evaluations](https://github.com/Parsa-Rajabi/academic/tree/main/teaching-evaluations)
-a repository to share my teaching evaluations as a teaching assistant and instructor positions.
+# Teaching Evaluations
 
-## UFV 
+Link to repository: [github.com/Parsa-Rajabi/academic](https://github.com/Parsa-Rajabi/academic/tree/main/teaching-evaluations)
+
+A repository to share my teaching evaluations as a teaching assistant and instructor positions.
+
+## University of Fraser Valley (UFV) 
 
 List of courses as an Instructor:
+
 - CIS 100: Introduction to Computers and Digital Technologies
 - CIS 145: Web Publishing
 - CIS 385: Project Management
@@ -17,21 +21,24 @@ In this course, students will design, organize, publish, and maintain a basic we
 ### CIS 385 - Project Management [3]
 This course is designed to complement existing information technology knowledge, skills, and experience with the project management skills required to effectively manage development projects that involve computer hardware, computer software, and telecommunications technology.
 
-## Langara
+## Langara College
 
 List of courses as an Instructor:
+
 - CPSC 2350: Software Practices
 
 ### CPSC 2350 - Software Practices [3]
 Students learn how to apply software development best practices to create the right product (validated), done right (verified), and managed right (through responsive and responsible process). They will learn the "what", "how", and "why" of agile practices, and the consequences for not following them, while working through the Software Development Life Cycle (SDLC) on multi-developer projects.
 
 
-## SFU 
+## Simon Fraser University (SFU) 
 
 List of courses as an instructor:
+
 - CMPT 276: Introduction to Software Engineering 
 
 List of courses as a Teaching Assistant:
+
 - CMPT 120: Intro to CS and Programming
 - CMPT 363: User Interface Design
 - CMPT 767: Visualization
@@ -49,9 +56,10 @@ This course provides a comprehensive study of user interface design. Topics incl
 Advanced topics in data visualization. Topics covered may include principles of data representation, data presentation, data interaction, data physicalization, data and visualization literacy, data visualization and diversity, open data, and public personal data visualization. 
 
 
-## UBC
+## University of British Columbia (UBC)
 
 List of courses as a Teaching Assistant:
+
 - COSC 101: Digital Citizenship
 - COSC 111: Computer Programming I
 - COSC 122: Computer Fluency
