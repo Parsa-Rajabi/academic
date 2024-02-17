@@ -1,8 +1,4 @@
-# Teaching Evaluations
-
-Link to repositroy: [Github](https://github.com/Parsa-Rajabi/academic/tree/main/teaching-evaluations)
-
-A repository to share my teaching evaluations as a teaching assistant and instructor positions.
+# Teaching Experience
 
 Link to repository: [github.com/Parsa-Rajabi/academic](https://github.com/Parsa-Rajabi/academic/tree/main/teaching-evaluations)
 
