@@ -2,10 +2,7 @@
 
 This repository contains my teaching evaluations as a teaching assistant and instructor positions broken down by institution and course.
 
-
 ## Instructor 
-
-## Teaching Evaluations
 
 ### Northeastern University
 
@@ -112,7 +109,7 @@ Covers the foundations of software engineering, including software development l
 ### CS 7980 - Research Capstone [4]
 Offers students a culminating experience to demonstrate proficiency in key concepts learned throughout their programs in the core and elective courses. Designed to reinforce concepts in ethics and basic concepts in research, beyond an emphasis on the technical principles learned throughout the program.
 
--- 
+---
 
 ## University of Fraser Valley (UFV)
 
@@ -134,7 +131,7 @@ This course is designed to complement existing information technology knowledge,
 ### COMP 350 - User Interface Design and Programming [3]
 This course introduces the topic of human-computer interaction by teaching students how to design and program enjoyable, user-centered graphical interfaces. The design principles are based on user behavior and human factors such as perception, memory, and attention. Students will learn to implement graphical user interfaces in a variety of programming environments and operating systems.
 
---
+---
 
 ## Langara College
 
@@ -144,7 +141,7 @@ Students will examine the structure of the internet and the World Wide Web and h
 ### CPSC 2350 - Software Practices [3]
 Students learn how to apply software development best practices to create the right product (validated), done right (verified), and managed right (through responsive and responsible process). They will learn the "what", "how", and "why" of agile practices, and the consequences for not following them, while working through the Software Development Life Cycle (SDLC) on multi-developer projects.
 
---
+---
 
 ## Simon Fraser University (SFU)
 
@@ -163,7 +160,7 @@ This course provides a comprehensive study of user interface design. Topics incl
 ### CMPT 767 - Visualization [3]
 Advanced topics in data visualization. Topics covered may include principles of data representation, data presentation, data interaction, data physicalization, data and visualization literacy, data visualization and diversity, open data, and public personal data visualization. 
 
---
+---
 
 ## University of British Columbia (UBC)
 
